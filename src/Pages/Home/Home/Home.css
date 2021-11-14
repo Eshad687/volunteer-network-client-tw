@@ -1,0 +1,8 @@
+.top{
+    background-image: url("https://image.freepik.com/free-photo/team-volunteers-stacking-hands_53876-20900.jpg"),linear-gradient(rgba(240, 231, 231, 0.9), rgba(240, 231, 231, 0.9));
+
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
